@@ -70,19 +70,24 @@ opencv, dilb,face-recognition을 활용하여 영상,사진,웹캠에서 얼굴�
 
 
 ## 실행방법
+
 ### image,video
 -dlib과opencv,패키지를 pip를 사용하여 설치해준다.
 
 
 -shape_predictor_68_face_landmarks.dat.bz2,dlib_face_recognition_resnet_model_v1.dat을 다운로드 받아 압축해제 후 파이썬 코드가 있는 위치로 복사해준다.
+
+
 -실행시켜준다.
 
 ### webcam
 -face_recognition과 opencv 패키지를 pip 사용하여 설치해준다.
+
+
 -실행시켜준다.
 
 ## 참고자료 
 [kairess/simple_face_recognition](https://github.com/kairess/simple_face_recognition)
 
 
- [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition)
+[ageitgey/face_recognition](https://github.com/ageitgey/face_recognition)
